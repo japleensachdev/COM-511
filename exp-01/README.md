@@ -3,4 +3,4 @@
 
 ### Outupt
 
-1[Output](exp_1.png)
+![Output](exp_1.png)
